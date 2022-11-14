@@ -1,0 +1,22 @@
+
+<!DOCTYPE html>
+<html>
+<title></title>
+<head>
+    <script>
+        <!--
+        var Temp = 38
+        if(Temp>38)
+        {
+            document.write("You're sick, go seek medical care")
+        }
+        else
+        {
+            document.write("you are okay")
+        }
+        -->
+    </script>
+</head>
+<body>
+</body>
+</html>
